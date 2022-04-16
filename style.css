@@ -7,3 +7,8 @@ header {
     text-align: center;
     background-color: aqua; /*カラーの指定をする基本は16進数6桁のカラーコードを使用。なお、3桁の略称版、カラーの単語も可能*/
 }
+
+footer {
+    text-align: center;
+    background-color: gray;
+}

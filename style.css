@@ -6,8 +6,9 @@
 header {
     height: 100px;
     text-align: center;
-    background-color: aqua; /*カラーの指定をする基本は16進数6桁のカラーコードを使用。なお、3桁の略称版、カラーの単語も可能*/
+    background-color: aqua; 
 }
+/*カラーの指定をする基本は16進数6桁のカラーコードを使用。なお、3桁の略称版、カラーの単語も可能*/
 
 main {
     height: 500px;
@@ -22,3 +23,4 @@ footer {
 li {
     list-style-type: disc; 
 }
+/*黒点をリストの右側に表示させるがなぜか動かない。原因を調査中…*/
